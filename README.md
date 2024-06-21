@@ -1,11 +1,11 @@
-# Photo CRUD App 📸📝
+# Framework Gallery CRUD 🖼️📝
 
-Bienvenue dans **Photo CRUD App**! Ce projet est une petite application web qui permet de créer, lire, mettre à jour et supprimer des images avec des descriptions. 🖼️✏️
+Bienvenue dans **Framework Gallery CRUD**! Ce projet est une petite application web qui permet de créer, lire, mettre à jour et supprimer des images associées à des descriptions de frameworks. 🖼️✏️
 
 ## Fonctionnalités ✨
-- Ajouter une nouvelle photo avec une description 🆕🖼️
-- Afficher la liste des photos 📜🖼️
-- Supprimer une photo 🗑️
+- Ajouter une nouvelle image avec une description 🆕🖼️
+- Afficher la liste des images avec leurs descriptions 📜🖼️
+- Supprimer une image de la galerie 🗑️
 
 ## Technologies utilisées 🛠️
 - PHP
@@ -16,17 +16,17 @@ Bienvenue dans **Photo CRUD App**! Ce projet est une petite application web qui 
 
 1. Cloner le dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/photo-crud-app.git
-   ```
+   git clone https://github.com/votre-utilisateur/framework-gallery-crud.git
 
 2. Naviguer dans le répertoire du projet :
    ```sh
-   cd photo-crud-app
+   cd framework-gallery-crud
+
    ```
 
-3. Importer la base de données `image.sql` dans votre serveur MySQL.
+3. Importer la base de données `images.sql` dans votre serveur MySQL.
 
-4. Configurer la connexion à la base de données dans `connection_bdd.php`.
+4. Configurer la connexion à la base de données dans `con_bdd.php`.
 
 5. Démarrer votre serveur web local et accéder à l'application via le navigateur.
 
@@ -43,4 +43,4 @@ Bienvenue dans **Photo CRUD App**! Ce projet est une petite application web qui 
 ## Contribution 🤝
 Les contributions sont les bienvenues! Si vous souhaitez améliorer ce projet, n'hésitez pas à ouvrir une issue ou soumettre une pull request.
 
-Merci d'avoir utilisé **Photo CRUD App**! 🎉
+Merci d'utiliser Framework Gallery CRUD! 🎉
