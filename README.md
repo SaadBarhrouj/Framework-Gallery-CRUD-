@@ -24,7 +24,7 @@ Bienvenue dans **Framework Gallery CRUD**! Ce projet est une petite application 
 
    ```
 
-3. Importer la base de données `images.sql` dans votre serveur MySQL.
+3. Importer la base de données `min_crud.sql` dans votre serveur MySQL.
 
 4. Configurer la connexion à la base de données dans `con_bdd.php`.
 
